@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=嗨%EF%BC%8C我是+knlit+👋;在校大学生+%7C+技术爱好者;UE+%7C+Blender+%7C+量化交易;用代码和艺术探索世界)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+knlit+%F0%9F%91%8B;Student+%7C+Tech+Enthusiast;UE+%7C+Blender+%7C+Quant+Trading;Building+cool+things+with+code)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=knlit&color=1D9E75&style=flat&label=访问次数)
 
 </div>
 
@@ -29,8 +33,12 @@
 ### GitHub 统计
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=knlit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=knlit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knlit&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knlit&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -42,20 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=knlit&color=1D9E75&style=flat&label=访问次数"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer"/>
 </div>
-
-<!--
-**knlit/knlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=knlit&color=1D9E75&style=flat&label=访问次数)
+![Profile Views](https://komarev.com/ghpvc/?username=knlit&color=1D9E75&style=flat&label=Profile+Views)
 
 </div>
 

@@ -43,8 +43,8 @@
 ---
 
 ### 置顶项目
+UE5 日式动漫风格材质技术文档
 
-🚀 **[crypto-quant](https://github.com/knlit/crypto-quant)** — 基于资金费率套利的量化交易系统，部署于东京 VPS，BTC/USDT，实时运行中
 
 ---
 
